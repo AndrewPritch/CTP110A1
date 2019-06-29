@@ -1,19 +1,17 @@
 # CTP110A1
-<!DOCTYPE html>
-<html>
+
 <title>Assignment 1</title> </head>
-<h1>Personal Information/h1> 
-<p>Name: Andrew Pritchard
-Student ID: s3792972
-Email: pritchardandrew@hotmail.com
+<h1>Personal Information</h1> 
+<p>Name: Andrew Pritchard</p>
+<p>Student ID: s3792972</p>
+<p>Email: pritchardandrew@hotmail.com</p>
 	
-I am 33 years old and live on the Gold Coast. I was born in the small country town of Hay in NSW, where I lived until I was 19. I decided there just wasn’t much there for me, so I decided to make a major change and move to somewhere where there would be lifestyle, career and personal growth opportunity. For the past 12 years, I have worked for Toll Priority, in which over my time, I have progressed up through the roles of driver to supervisor, and I am now looking at a promotion of operations manager. My favourite past time is using killing time (when I finally get some) playing some retro Nintendo or my PlayStation 4. Favourite console of all time is my Super Nintendo, however can’t go too long without a good Nintendo 64 session. 
-  /p> 
-<h2>Interest in IT/h2> 
+<p>I am 33 years old and live on the Gold Coast. I was born in the small country town of Hay in NSW, where I lived until I was 19. I decided there just wasn’t much there for me, so I decided to make a major change and move to somewhere where there would be lifestyle, career and personal growth opportunity. For the past 12 years, I have worked for Toll Priority, in which over my time, I have progressed up through the roles of driver to supervisor, and I am now looking at a promotion of operations manager. My favourite past time is using killing time (when I finally get some) playing some retro Nintendo or my PlayStation 4. Favourite console of all time is my Super Nintendo, however can’t go too long without a good Nintendo 64 session. </p> 
+<h2>Interest in IT</h2> 
 <p>My interest in IT has always been there, however I guess when I was in my 20’s it took the back seat. I had a great circle of friends and worked a lot, but really enjoyed socialising on weekends and in my spare time would go to the gym. Now I’m a little older, I thought about getting back to something I always enjoyed. With my interest in retro gaming peaking in the last year, I started to wonder where I could go in this particular industry. Finding my current job less rewarding of late I began to consider what would be something I could do to get me excited about work again. Study was the obvious choice, and I could finally do something I was interest in. Having left school after completing year 10, and having no idea what to do for a career in my life, it was a very satisfying and exciting idea to look into IT and where it could take me.
-/p> 
+</p> 
 	
-<h3>Ideal Job/h3> 
+<h3>Ideal Job</h3> 
 <p>Until recently I had no idea what aspect of IT I would be interested in working in. As a game enthusiast, I began looking on seek for jobs, then looking more towards specific websites. It wasn’t until one day I found myself on the Nintendo website, and discovered they were recruiting, and the key qualification required was an IT degree. I looked into studying traditionally, at an on campus style education, however this simply would not suit my work routine. When I looked into OUA, it became apparent that I could complete the INTRO TO IT and INTRO TO PROGRAMMING and then possibly make up my mind, as to what could be more suitable, and also, if I would actually enjoy this. Completing my INTRO TO PROGRAMMING course and I was hooked. I found myself excited about finishing work to come home and work on my Java and write basic code and programs that reacted when I ran them. I feel a programming job would not only be interesting but also fulfilling. Learning the skills necessary to pitching, presentations and team leadership within the industry, and with current supervisor / management experience, I feel I would be suited working in charge of a design or programming team./p>
 <img src="Screen Shot 2019-06-26 at 5.49.38 pm.png">
 
@@ -23,18 +21,18 @@ I am 33 years old and live on the Gold Coast. I was born in the small country to
 <h4> Personal Profile </h4> 
 
 <img src=“Screen Shot 2019-06-26 at 5.50.38 pm.png”>
-<p> As an alternative to the Myers-Briggs test, I chose to complete the test i found on<p>
-<a href=“16personalities.com”>16personalities<a/>
+<p> As an alternative to the Myers-Briggs test, I chose to complete the test i found on</p>
+<a href=“16personalities.com”>16personalities/a>
 
 <img src=“Screen Shot 2019-06-26 at 5.51.05 pm.png”>
-<p> My results of online learning style test brought back a result of Tactile / Kinesthetic. To get my result I used<p>
+<p> My results of online learning style test brought back a result of Tactile / Kinesthetic. To get my result I used</p>
 
 <a href=“how-to-study.com”>How to Study<a/>
 
 <img src=“Screen Shot 2019-06-26 at 5.51.23 pm.png”>
 
-<p> For my third test, I chose a typing test, as I have found it could use some improvement. The test proved this!! I found this test at <p>
-<a href=“www.thetypingcat.com”>The Typing Cat<a/>
+<p> For my third test, I chose a typing test, as I have found it could use some improvement. The test proved this!! I found this test at </p>
+<a href=“www.thetypingcat.com”>The Typing Cat</a>
 
   <h5> Personality Test: </h5> 
 
@@ -86,6 +84,4 @@ Software required would be a complex main program, that allowed centralised deli
 <p>If the program is successful, the benefits for the logistics company would be immeasurable. Constant tracking or monitoring of all stock / deliveries, vehicles and drivers. Better customer service and satisfaction, with updated ETA’s of deliveries or pick ups. Less time wasted on answering basic customer concerns or enquires and more motivated drivers as they would have a great software program that works well for them. Less driver frustration with forgetting deliveries or not being able to locate an address. Easier supervision of drivers by allowing management to locate staff at all times and audit particular runs easily and live.
 </p> 
 
-
-</html>
 
