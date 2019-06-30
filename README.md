@@ -12,7 +12,7 @@
 	
 <h3>Ideal Job</h3> 
 <p>Until recently I had no idea what aspect of IT I would be interested in working in. As a game enthusiast, I began looking on seek for jobs, then looking more towards specific websites. It wasn’t until one day I found myself on the Nintendo website, and discovered they were recruiting, and the key qualification required was an IT degree. I looked into studying traditionally, at an on campus style education, however this simply would not suit my work routine. When I looked into OUA, it became apparent that I could complete the INTRO TO IT and INTRO TO PROGRAMMING and then possibly make up my mind, as to what could be more suitable, and also, if I would actually enjoy this. Completing my INTRO TO PROGRAMMING course and I was hooked. I found myself excited about finishing work to come home and work on my Java and write basic code and programs that reacted when I ran them. I feel a programming job would not only be interesting but also fulfilling. Learning the skills necessary to pitching, presentations and team leadership within the industry, and with current supervisor / management experience, I feel I would be suited working in charge of a design or programming team.</p>
-<img src="Screen Shot 2019-06-26 at 5.49.38 pm.jpg">
+<img src="file://C:\Users\pritc\Desktop\Assignment1IntrotoIT.mht">
 <p>Link for job</p>
 <a href=“https://www.seek.com.au/job/39071367?searchrequesttoken=242c55a7-7242-44c1-bdbf-2ba2ee637c77&type=standout”>Click Here </a>
 
