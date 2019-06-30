@@ -18,15 +18,15 @@
 
 <h4> Personal Profile </h4> 
 
-<img src="Screen Shot 2019-06-26 at 5.50.38 pm.jpg">			
+<img src=Screen Shot 2019-06-26 at 5.50.38 pm.jpg>			
 <p>As an alternative to the Myers-Briggs test, I chose to complete the test i found on</p>
 <a href=“16personalities.com”>16personalities</a>
 
-<img src=“Screen Shot 2019-06-26 at 5.51.05 pm.jpg">
+<img src=Screen Shot 2019-06-26 at 5.51.05 pm.jpg>
 <p> My results of online learning style test brought back a result of Tactile / Kinesthetic. To get my result I used</p>
 <a href=“how-to-study.com”>How to Study</a>
 
-<img src=“Screen Shot 2019-06-26 at 5.51.23 pm.jpg">
+<img src=Screen Shot 2019-06-26 at 5.51.23 pm.jpg>
 <p> For my third test, I chose a typing test, as I have found it could use some improvement. The test proved this!! I found this test at </p>
 <a href=“www.thetypingcat.com”>The Typing Cat</a>
 
