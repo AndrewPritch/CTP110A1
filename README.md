@@ -80,4 +80,3 @@ Software required would be a complex main program, that allowed centralised deli
 <p>If the program is successful, the benefits for the logistics company would be immeasurable. Constant tracking or monitoring of all stock / deliveries, vehicles and drivers. Better customer service and satisfaction, with updated ETA’s of deliveries or pick ups. Less time wasted on answering basic customer concerns or enquires and more motivated drivers as they would have a great software program that works well for them. Less driver frustration with forgetting deliveries or not being able to locate an address. Easier supervision of drivers by allowing management to locate staff at all times and audit particular runs easily and live.
 </p> 
 
-
