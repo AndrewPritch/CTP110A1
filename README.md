@@ -18,7 +18,7 @@
 
 <h2> Personal Profile </h2> 
 
-<img src=
+<img src=https://github.com/AndrewPritch/CTP110A1/blob/master/Screen%20Shot%202019-06-26%20at%205.50.38%20pm.jpg>
 <p>As an alternative to the Myers-Briggs test, I chose to complete the test i found on</p>
 <a href=“16personalities.com”>16personalities</a>
 
