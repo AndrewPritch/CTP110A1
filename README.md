@@ -1,6 +1,6 @@
 # CTP110A1
 
-<h1>Personal Information</h1> 
+<h1>##Personal Information##</h1> 
 <p>Name: Andrew Pritchard</p>
 <p>Student ID: s3792972</p>
 <p>Email: pritchardandrew@hotmail.com</p>
